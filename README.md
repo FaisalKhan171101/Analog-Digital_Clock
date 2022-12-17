@@ -4,7 +4,7 @@
 
 A simple analog clock app written in [Python](https://www.python.org) using the built-in [`tkinter`](https://docs.python.org/3/library/tkinter.html) library.
 
-It is an extension of the [Website](https://FaisalKhan171101.github.io) completely in python, it was created earlier using html,css and javascript,.
+It is an extension of the [Website](https://FaisalKhan171101.github.io) completely in python, it was created earlier using html,css and javascript.
 
 ## Requirements
 
